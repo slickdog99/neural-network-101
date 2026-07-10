@@ -38,7 +38,7 @@ A beginner-friendly implementation of a **feedforward neural network from scratc
 
 ### 💻 Run Locally
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/slickdog99/neural-network-101.git
 cd your-repo-name
 jupyter notebook neural_network_101.ipynb
 🧮 Sample Functions
